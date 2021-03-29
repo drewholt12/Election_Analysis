@@ -21,29 +21,29 @@ A Colorado Board of Elections employee has asked that an audit be performed of a
 The analysis of the election shows:
 - There were 369,711 votes cast in the election.
 - The candidates were:
--   -Charles Casper Stockham
--   -Diana Degette
--   -Ramon Anthony Doane
+   -Charles Casper Stockham
+   -Diana Degette
+   -Ramon Anthony Doane
 - The candidate results were:
--   - Charles Casper Stockham received 23% of the vote and 85,213 votes.
--   - Diana Degette received 73.8% of the vote and 272,892 votes.
--   - Ramon Anthony Doane received 3.1% of the vote and 11,606 votes.
+   - Charles Casper Stockham received 23% of the vote and 85,213 votes.
+   - Diana Degette received 73.8% of the vote and 272,892 votes.
+   - Ramon Anthony Doane received 3.1% of the vote and 11,606 votes.
 -The winner of the election was:
-    - Diana Degette who received 73.8% of the vote and 272,892 votes.
+   - Diana Degette who received 73.8% of the vote and 272,892 votes.
 - The counties casting votes in this election were:
--   - Jefferson
--   - Denver
--   - Arapahoe
+   - Jefferson
+   - Denver
+   - Arapahoe
 - The voter turnout for each county were:
--   - Jefferson: 38,855
--   - Denver: 306,055
--   - Arapahoe: 24,801
+   - Jefferson: 38,855
+   - Denver: 306,055
+   - Arapahoe: 24,801
 - The percentage of total votes from each county were:
-    - Jefferson: 10.5%
-    - Denver: 82.8%
-    - Arapahoe: 6.7%
+   - Jefferson: 10.5%
+   - Denver: 82.8%
+   - Arapahoe: 6.7%
 - The county with the highest turnout was:
-    - Denver
+   - Denver
 
 ## Election-Audit Summary
 Writing code of this type, performing the tasks requested of the Colorado Board of Elections, is time consuming.  Requiring personnel to re-create this code may lead to errors.  Knowing that this type of audit analysis could be required in the future, the code was written so that it could be applied to future, or past, election data files with minimal modification.  Using the same code maintains consistency through the analysis of data, as long as the source data shares the same formatting as the data with which the code was written to process.  
